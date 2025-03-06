@@ -1,1 +1,1 @@
-# demo-app-int-generating-template-integrations
+# demo-appint-generating-template-integrations
